@@ -1,0 +1,6 @@
+{
+  "name": "ShubhamVIP – Discover Products You'll Love",
+  "description": "Discover trending fashion, electronics, fitness gear, and lifestyle essentials with fast shipping and secure checkout at ShubhamVIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
